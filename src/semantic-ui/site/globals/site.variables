@@ -1,0 +1,10 @@
+/*******************************
+     User Global Variables
+*******************************/
+@primaryColor: #002f4e;
+
+
+@headerMargin        : 1em 0em 1rem;
+@headerFont        :  sans-serif;
+@highlightBackground : rgba(255, 255, 160, 0.4);
+@headerMargin: 50px;

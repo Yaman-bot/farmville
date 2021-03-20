@@ -1,0 +1,56 @@
+{
+  "name": "landing",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@portis/web3": "^3.0.8",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.8.3",
+    "@truffle/hdwallet-provider": "^1.2.4",
+    "fs-extra": "^9.1.0",
+    "ganache-cli": "^6.12.2",
+    "identicon.js": "^2.3.3",
+    "ipfs-http-client": "^49.0.4",
+    "mocha": "^8.3.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.3",
+    "solc": "^0.5.15",
+    "web-vitals": "^1.1.1",
+    "web3": "^1.2.4"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "craco eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@craco/craco": "^6.1.1",
+    "@semantic-ui-react/craco-less": "^1.2.1",
+    "semantic-ui-less": "^2.4.1"
+  }
+}
