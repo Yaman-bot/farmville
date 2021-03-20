@@ -27,7 +27,7 @@ as per requirement in any stage of crop production. Since this money is in the f
 
 ##Flow Chart
 <img
-src=“https://github.com/Yaman-bot/mozohack.git/assets/Screenshot(32).png”
+src=“https://github.com/Yaman-bot/mozohack.git/assets/Screenshot.png”
 raw=true
 style=“margin-right: 10px;”
 />
