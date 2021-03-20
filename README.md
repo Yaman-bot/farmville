@@ -25,12 +25,8 @@ as per requirement in any stage of crop production. Since this money is in the f
 3. The web app provides control in the hand of investors with the help of its innovative ‘spending function’ to prevent misuse of their resources and will also significantly reduce number of contract defaults by fraudulent farmers. \
 4. Legal disputes, if any, can now be solved much easily as a permanent online ledger is being maintained. Thus, the party not fulfilling the terms of agreement can easily be traced.
 
-##Flow Chart
-<img
-src=“https://github.com/Yaman-bot/mozohack.git/assets/Screenshot.png”
-raw=true
-style=“margin-right: 10px;”
-/>
+## Flow Chart
+![](src/assets/Screenshot.png)
 
 
 ## Available Scripts
